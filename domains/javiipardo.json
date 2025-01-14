@@ -1,0 +1,11 @@
+{
+    "description": "For a portfolio",
+    "repo": "https://github.com/javier-pardo4/Portfolio.git",
+    "owner": {
+        "username": "javier-pardo4",
+        "email": "[javier.pardo4@alu.uclm.es]"
+    },
+    "record": {
+        "CNAME": "javier-pardo4.github.io"
+    }
+}
